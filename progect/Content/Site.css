@@ -1,0 +1,65 @@
+﻿body {
+    background-color: #333;
+    color: #ccc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ccc;
+}
+
+    .navbar-dark .navbar-nav .nav-link:hover {
+        color: #fff;
+    }
+
+.container {
+    padding-top: 20px;
+}
+
+.footer {
+    padding: 20px 0;
+    text-align: center;
+    color: #aaa;
+    background-color: #222;
+}
+
+.table {
+    background-color: #444;
+    color: #ccc;
+}
+
+    .table th, .table td {
+        border-top: 1px solid #555;
+    }
+
+    .table thead th {
+        background-color: #555;
+        color: #fff;
+    }
+
+    .table tbody tr:hover {
+        background-color: #555;
+    }
+
+.btn {
+    background-color: #555;
+    border: none;
+    color: #ccc;
+}
+
+    .btn:hover {
+        background-color: #666;
+        color: #fff;
+    }
+
+.form-control {
+    background-color: #444;
+    border: 1px solid #555;
+    color: #ccc;
+}
+
+    .form-control:focus {
+        background-color: #555;
+        border-color: #666;
+        color: #fff;
+    }
